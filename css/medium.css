@@ -1,0 +1,39 @@
+body{
+    font-family: 'PT Serif', serif;
+}
+
+.bg-yellow{
+    background-color: rgb(255, 192, 23);
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1);
+}
+
+.avatar{
+    width: 20px;
+    height: 20px;
+}
+
+.squared{
+    border-radius: 25%;
+}
+
+.aside-buttons > li{
+    margin-bottom: 10px;
+}
+
+.sticky {
+    position: -webkit-sticky;
+    position: sticky;
+    top: 0;
+  }
+
+.border-radius{
+    border-radius: 50px;
+}
+
+.image-size{
+    max-width: 200px;
+    max-height: 140px;
+}
