@@ -1,0 +1,10 @@
+.DS_Store
+
+.log
+
+/js
+
+/fontawesome
+
+css/*
+!/css/medium.css
